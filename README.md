@@ -21,3 +21,9 @@ This tool removes window borders and resizes the active window to fullscreen, th
 - Anti-cheat protected games may block window manipulation
 - Best used in windowed mode
 - While the program is running, using F11 in YouTube and elsewhere might not work properly, so make sure to quit the program once you stop using it
+
+## Download
+Go to **Releases** and download BorderlessToggle-x64.zip
+
+## Credits
+Made with AutoHotkey and questionable levels of motivation.
